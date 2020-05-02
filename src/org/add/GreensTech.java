@@ -39,6 +39,9 @@ public static void main(String[] args) {
     g.greensTambaram();
     g.greensvelacherry();
     g.greensAnnanagar();
+    
+    System.out.println("hi");
+    
 }
 
 
